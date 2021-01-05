@@ -17,3 +17,4 @@
 [1322108_013 تعامل انسان کامپیوتر](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/HumanComputerInteraction)
 
 -----------------
+https://github.com/mozhganmottaghi/PNU_3991_AR/tree/main/ResearchAndPresentationMethods پروژه درس طراحی واسط کاربر و تعامل انسان و کامپیوتر
